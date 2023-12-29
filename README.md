@@ -1,5 +1,5 @@
 # IBM Data Analyst Professional Certificate
-![IBM](https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg)
+![IBM](Certificate.png)
 ## Overview
 The IBM Data Analyst Professional Certificate is a comprehensive program designed to equip individuals with the skills and knowledge necessary to excel in the field of data analysis. This certification is offered by IBM, a global leader in technology and innovation.
 
